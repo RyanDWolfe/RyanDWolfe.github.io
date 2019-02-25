@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Where to Start Programing?"
-date:       2019-02-25 19:06:08 +0000
+title:      "Where to Start Programming?"
+date:       2019-02-25 14:06:09 -0500
 permalink:  where_to_start_programing
 ---
 
